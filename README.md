@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm sophomore of KAIST(Korea Advanced Institute of Science and Technology) and the Frontend/Flutter developer of Dada Company.
+
 <!--
 **seayurre/seayurre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
