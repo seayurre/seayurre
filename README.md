@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm junior of KAIST(Korea Advanced Institute of Science and Technology) and the Frontend/Flutter developer of Dada Company.
+- Junior Undergraduate Student of KAIST(Korea Advanced Institute of Science and Technology) School of Computing
+- Member of KAIST Cybersecurity Club GoN
+- Former Lead Frontend Developer of Dada Company
 
 <!--
 **seayurre/seayurre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
