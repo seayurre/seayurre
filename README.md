@@ -4,6 +4,8 @@
 - Member of KAIST Cybersecurity Club GoN
 - Former Lead Frontend Developer of Dada Company
 
+  My CV : https://drive.google.com/file/d/1r5Mf0ubFX2ioYocO6qgCSdcAWhFIfPrx/view?usp=sharing
+
 <!--
 **seayurre/seayurre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
