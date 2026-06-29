@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Junior Undergraduate Student of KAIST(Korea Advanced Institute of Science and Technology) School of Computing
+- Undergraduate Student of KAIST(Korea Advanced Institute of Science and Technology) School of Computing, Department of Brain & Cognitive Science (Double Major)
 - Currently serving on R.O.K. Navy as an AI Engineer (AI개발특기병)  
 - Member of KAIST Cybersecurity Club GoN
 - Former Lead Frontend Developer of Dada Company
